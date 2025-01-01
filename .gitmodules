@@ -1,0 +1,3 @@
+[submodule "src/map_generator"]
+	path = src/map_generator
+	url = https://github.com/panfeelove/map_generator.git
